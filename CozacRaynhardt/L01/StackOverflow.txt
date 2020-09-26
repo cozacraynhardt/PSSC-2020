@@ -1,0 +1,8 @@
+Stack overflow este un site web de întrebari si raspunsuri din domeniul programarii.
+Aplicatia contine: 
+-meniul
+-bara de cautare
+-butoane autentificare si inregistrare
+-sectiune pentru job-uri
+-sectiune pentru companii
+-buton adaugare intrebare
